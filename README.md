@@ -1,0 +1,1 @@
+# hot-framework-compatibility-test
